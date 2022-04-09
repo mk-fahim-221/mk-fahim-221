@@ -2,6 +2,8 @@
 # Multajim Bin Kamal Fahim
 ### App Developer
 
+<imgalgin="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/2646423/screenshots/5507196/computer.gif">
+
 <!--
 **fahim1zero/fahim1zero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
