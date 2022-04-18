@@ -1,14 +1,14 @@
 # <div align="left">I'm Fahim, a full-time Mobile Application freelance developer 👨‍💻</div>  
   
 
-#### <div align="left">working remotely since 2021 🚀</div>  
+#### <div align="left">working remotely since 2022 🚀</div>  
   
 
 <br/>  
 
 
 ## My Skill
-<table><tr><td valign="top" width="80%">
+<table><tr><td valign="top" width="100%">
 
 <div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -73,6 +73,6 @@
 </div>  
   
 
-<br/>  
+<!-- <br/>   -->
 
-<div align="center"></div>  
+<!-- <div align="center"></div>   -->
