@@ -7,7 +7,7 @@
 <br/>  
 
 
-## My Skill
+## Skills
 <table><tr><td valign="top" width="100%">
 
 <div align="left">  
